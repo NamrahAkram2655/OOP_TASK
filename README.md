@@ -66,9 +66,8 @@ This C++ program defines a `Cuboids` class to model cuboidal objects, implementi
 The provided C++ code defines a `Circle` class which encapsulates properties and operations of a geometric circle, like setting coordinates, radius, and computing area, along with multiple constructors, a copy constructor, and destructors. It also includes methods for input/output operations, and modifying and comparing circle objects within arrays.
 <hr>
 <b>Practice_Lab 04</b> : <br>
-1. **NumDays Class**: This class is designed to manage work hours and their equivalent in days, providing functionality for basic arithmetic operations and automatic recalculations of days when hours are modified through operators like addition, subtraction, and increment/decrement.<br>
-
-2. **TimeOff Class and Personnel Report**: The TimeOff class tracks an employee's various types of leave using instances of the NumDays class and enforces company policies on vacation limits. A companion program utilizes this class to calculate and display an employee's leave based on their tenure at the company, handling inputs and outputs around sick leave and vacation days earned.
+1. NumDays Class: This class is designed to manage work hours and their equivalent in days, providing functionality for basic arithmetic operations and automatic recalculations of days when hours are modified through operators like addition, subtraction, and increment/decrement.<br>
+2. TimeOff Class and Personnel Report: The TimeOff class tracks an employee's various types of leave using instances of the NumDays class and enforces company policies on vacation limits. A companion program utilizes this class to calculate and display an employee's leave based on their tenure at the company, handling inputs and outputs around sick leave and vacation days earned.
 <hr>
 <b>HomeWorks </b> : <br>
 Some homeworks are given for practice....😊
